@@ -1,7 +1,7 @@
-💡Empowering Developers. ♻️ Impact driven. ❤️ Open source advocate. 💾 Loves to code.
-----
+## 💡Empowering Developers. ♻️ Impact driven. ❤️ Open source advocate. 💾 Loves to code.
 
-## About Me:
+
+### About Me:
 
 Hey there! 👋
 
@@ -11,7 +11,7 @@ I've worn many hats: launched my own products, taken ideas from 0 to 1, and roll
 
 If it involves helping developers build better things—count me in. 
 
-## My Expeirence: 
+### My Expeirence: 
 
 **DevRel / DX / Growth / Product: 18 years**
 - PLG Growth leader
