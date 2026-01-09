@@ -1,4 +1,5 @@
-## 💡Empowering Developers. ♻️ Impact driven. ❤️ Open source advocate. 💾 Loves to code.
+
+<img width="1536" height="1024" alt="code-community-connect" src="https://github.com/user-attachments/assets/b808c196-6008-4168-9d0f-300130e4497d" />
 
 
 ### About Me:
