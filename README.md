@@ -10,9 +10,9 @@ I'm an entrepreneur, startup veteran, product manager, and developer who thrives
 
 I've worn many hats: launched my own products, taken ideas from 0 to 1, and rolled up my sleeves as a hands-on engineer. My sweet spot? **Developer Relations, Developer Experience, and building products developers actually love.**
 
-If it involves helping developers build better things—count me in. 
+If it involves helping developers build better things—count me in.
 
-### My Expeirence: 
+### My Experience:
 
 **DevRel / DX / Growth / Product: 18 years**
 - PLG Growth leader
