@@ -15,17 +15,17 @@ If it involves helping developers build better things—count me in.
 ### My Experience:
 
 **DevRel / DX / Growth / Product: 18 years**
-- PLG Growth leader
-- Dev Rel leader
-- Impact focused prioritization
-- Experienced Data Analyst
-- Experienced Product Manager
-- Experienced Developer Community Manager
-- Experienced Technical Documentation Writer
+- Product Management
+- Developer Relations
+- PLG Growth 
+- Data Analysis
+- Developer Community Manager
+- Technical Documentation Writer
 
 **Developer: 10 years**
-- Experienced with GraphQL, JavaScript, Typescript, Python, .NET, Go, iOS and Android development
-- Experienced with cybersecurity & authentication protocols
+- JavaScript, Typescript, Python, .NET & Go
+- API design & development
+- Prompt engineering & agentic coding
+- Cybersecurity & authentication protocols
 - SDK & OSS Library development & maintenance
 - UI & UX Design wire framing & prototyping
-- Experienced in API design & development
