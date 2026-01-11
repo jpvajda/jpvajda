@@ -8,24 +8,10 @@ Hey there! 👋
 
 I'm an entrepreneur, startup veteran, product manager, and developer who thrives at the intersection of code and community.
 
-I've worn many hats: launched my own products, taken ideas from 0 to 1, and rolled up my sleeves as a hands-on engineer. My sweet spot? **Developer Relations, Developer Experience, and building products developers actually love.**
+I've worn many hats: launched my own products, taken ideas from 0 to 1, and rolled up my sleeves as a hands-on engineer. My sweet spot? **Developer Relations, Developer Experience, and building products developers actually ❤️ to use.**
 
-If it involves helping developers build better things—count me in.
+### Core competencies:
 
-### My Experience:
+**Product & Growth:** Product Management • Developer Relations • PLG Growth • Data Analysis • Developer Community Management • Technical Documentation • API Development & Strategy
 
-**DevRel / DX / Growth / Product: 18 years**
-- Product Management
-- Developer Relations
-- PLG Growth 
-- Data Analysis
-- Developer Community Manager
-- Technical Documentation Writer
-
-**Developer: 10 years**
-- JavaScript, Typescript, Python, .NET & Go
-- API design & development
-- Prompt engineering & agentic coding
-- Cybersecurity & authentication protocols
-- SDK & OSS Library development & maintenance
-- UI & UX Design wire framing & prototyping
+**Technical Skills:** JavaScript • TypeScript • Python • .NET • Go • API Design & Development • SDK Development • Prompt Engineering • Agentic Coding • Cybersecurity • Authentication Protocols • OSS Library Development • UI/UX Design
