@@ -5,7 +5,7 @@
 
 Hey there! 👋
 
-I'm a Fractional Product, Engineering & DevRel Leader — I help startups build 0→1 products and developer ecosystems.
+I'm a Product, Engineering & DevRel Leader — I help startups build 0→1 products and developer ecosystems.
 
 ### Core competencies:
 
