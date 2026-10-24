@@ -1,4 +1,4 @@
-<img width="1200" height="630" alt="github_banner_1" src="https://github.com/user-attachments/assets/96c4e8f0-fab0-4ae7-b310-b9040e166d28" />
+<img width="1731" height="909" alt="jv-gh-banner" src="https://github.com/user-attachments/assets/17a64fa0-6ea9-44b1-bf0d-943478ff845a" />
 
 
 ### About Me:
