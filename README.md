@@ -5,7 +5,7 @@
 
 Hey there! 👋
 
-I'm a Product, Engineering & DevRel Leader with 14 years building and scaling developer platforms, APIs, and communities through product-led growth. I'm very passionate about agentic AI and the next generation of developer tools.
+I'm a PM with engineering flavor. 14 years building and scaling developer platforms, APIs, and communities through product-led growth. Passionate about agentic AI and the next generation of developer tools.
 
 ### Core competencies:
 
